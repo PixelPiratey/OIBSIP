@@ -67,5 +67,4 @@ The goal is to uncover patterns in customer behavior, product category trends, a
 
 ---
 
-## 📌 Status
-✅ Completed as part of the Oasis Infobyte Internship (OIBSIP) – Data Science Domain
+
